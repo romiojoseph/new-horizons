@@ -1,0 +1,21 @@
+{
+    "name": "New Horizons: Tech & News Live on Bluesky",
+    "short_name": "New Horizons",
+    "description": "Aggregates real-time news from Bluesky media profiles, tech companies, organizations, institutions, and journalists, along with threads from Hacker News.",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#006aff",
+    "icons": [
+        {
+            "src": "/new-horizons/icons/icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/new-horizons/icons/icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
