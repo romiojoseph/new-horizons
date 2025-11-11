@@ -2,7 +2,7 @@
     "name": "New Horizons: Tech & News Live on Bluesky",
     "short_name": "New Horizons",
     "description": "Aggregates real-time news from Bluesky media profiles, tech companies, organizations, institutions, and journalists, along with threads from Hacker News.",
-    "start_url": "/",
+    "start_url": "/new-horizons/",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#006aff",
