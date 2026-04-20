@@ -5,7 +5,7 @@
     "start_url": "/new-horizons/",
     "display": "standalone",
     "background_color": "#ffffff",
-    "theme_color": "#006aff",
+    "theme_color": "#262626",
     "icons": [
         {
             "src": "/new-horizons/favicon.svg",
