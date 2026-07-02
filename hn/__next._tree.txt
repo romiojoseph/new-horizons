@@ -1,6 +1,6 @@
-:HL["/new-horizons/_next/static/chunks/17b25q2j-i67a.css","style"]
+:HL["/new-horizons/_next/static/chunks/149itb82ax60f.css","style"]
 :HL["/new-horizons/_next/static/chunks/1dy72l2a4rkh4.css","style"]
 :HL["/new-horizons/_next/static/chunks/1ywvwfe-rkwpc.css","style"]
 :HL["/new-horizons/_next/static/chunks/2gjpc_9qrmj99.css","style"]
 :HL["https://fonts.googleapis.com/css2?family=Google+Sans+Flex:opsz,wght@6..144,1..1000&display=swap","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"hn","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"7V5WE6DGmMXfuCzJqnV0Q"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"hn","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"GE0nFxqYOk0sUj2P_jA2f"}
